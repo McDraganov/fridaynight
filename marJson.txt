@@ -22,7 +22,7 @@
 	"interId": "",
 	"bannerId": "",
 	"rewardadmob": "",
-"Nativeadmob": "ca-app-pub-3940256099942544/2247696110",
+"Nativeadmob": "",
 
 
 "onesignal stuff": "hna key dyal onesignal ",
@@ -31,9 +31,9 @@
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "269229034695120_269230518028305",
-	"FanBanner": "269229034695120_269229674695056",
-	"FanReward": "269229034695120_269231221361568",
+	"FanInter": "949734668893564_949736378893393",
+	"FanBanner": "949734668893564_949735378893493",
+	"FanReward": "949734668893564_949925172207847",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	

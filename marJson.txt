@@ -25,7 +25,7 @@
 "Nativeadmob": "ca-app-pub-3940256099942544/2247696110",
 
 
-"onesignal stuff": "hna key dyal onesignal",
+"onesignal stuff": "0a179048-b3c1-4836-aa16-74604015de97",
 
 "Onesignalkey": "d1fcb27e-1d31-4b47-944d-5e5a37e807ee",
 

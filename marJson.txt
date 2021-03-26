@@ -1,5 +1,5 @@
 {
-"version": "Friday v3",
+"version": "Friday v0",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "1",
